@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Farhan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Associate Software Developer%20%7C%20Always%20Learning%2C%20Always%20Building&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Farhan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Developer%20%7C%20Always%20Learning%2C%20Always%20Building&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Associate+Software+Developer+%F0%9F%9A%80;Learning+Vue.js+%7C+Node.js+%7C+Linux+%F0%9F%90%A7;C+%7C+C%2B%2B+%7C+Java+%7C+Python+Developer;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
